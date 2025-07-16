@@ -208,3 +208,8 @@ protected $fillable = [
 
 - [Laravel Socialite Docs](https://laravel.com/docs/12.x/socialite)
 - [Socialite Providers](https://socialiteproviders.com/)
+
+
+---
+
+- [Example Project](https://github.com/mabdusshakur/laravel-social-login-app)
